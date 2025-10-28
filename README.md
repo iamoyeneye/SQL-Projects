@@ -38,4 +38,4 @@ Each project folder contains:
 ---
 
 ## 💬 Contact
-If you’d like to discuss any of these projects or collaboration opportunities, feel free to connect with me on **[LinkedIn](www.linkedin.com/in/ibrahim-oyeneye-0a374046)**.
+If you’d like to discuss any of these projects or collaboration opportunities, feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/ibrahim-oyeneye-0a374046)**.
