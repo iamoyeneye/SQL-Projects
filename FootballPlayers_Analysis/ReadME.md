@@ -17,7 +17,7 @@ To perform an exploratory analysis on the footballplayers data and generate insi
 ---
 
 ### 🧾 SQL Code
-[FootballPlayers_SQL_Code](https://github.com/iamoyeneye/SQL-Projects/blob/main/FootballPlayers_Analysis/Schema.sql)
+[FootballPlayers_Schema_SQL_Code](https://github.com/iamoyeneye/SQL-Projects/blob/main/FootballPlayers_Analysis/Schema.sql)
 
 ---
 
