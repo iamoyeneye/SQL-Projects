@@ -13,3 +13,66 @@
 09:41:54.979118 [info ]: 
 ==================== Execution Summary =====================
 Finished 'compile' with 1 error [268us]
+==================== 2026-10-06T09:48:35.544517Z | 00000000-0000-0000-0000-000000000000 ====================
+==================== 2026-10-06T09:48:35.544630Z | 09de9e8d-c736-49f0-bf0c-72542a5bb2c2 ====================
+09:48:35.544650 [info ]: Starting dbt LSP server
+09:48:35.544668 [info ]: Connecting to LSP client on port 40211
+09:48:35.544880 [info ]: Successfully connected to LSP client
+09:48:35.544900 [info ]: Creating LSP service...
+09:48:35.545656 [info ]: Creating LSP server...
+09:48:35.545667 [info ]: Starting LSP server...
+==================== 2026-10-06T09:48:35.868735Z | 5a203c52-4930-4b12-b26b-8f9ac9b16155 ====================
+09:48:35.868818 [info ]: Started loading project
+09:48:35.868872 [info ]: Finished loading project [  0.00s]
+09:48:35.868934 [error]: [IoError (dbt1001)]: Cannot open file /dbt_project/71836b52-5f47-4a23-8652-0fde71633bbd/dbt_project.yml: Failed to open file: /dbt_project/71836b52-5f47-4a23-8652-0fde71633bbd/dbt_project.yml: No such file or directory (os error 2): No such file or directory (os error 2)
+09:48:35.868980 [info ]: 
+==================== Execution Summary =====================
+Finished 'compile' with 1 error [244us]
+==================== 2026-10-06T09:51:38.969712Z | 00000000-0000-0000-0000-000000000000 ====================
+==================== 2026-10-06T09:51:38.969825Z | 70beca47-79c5-4d88-8e8c-490807c39f1a ====================
+09:51:38.969845 [info ]: Starting dbt LSP server
+09:51:38.969869 [info ]: Connecting to LSP client on port 52439
+09:51:38.970123 [info ]: Successfully connected to LSP client
+09:51:38.970141 [info ]: Creating LSP service...
+09:51:38.970950 [info ]: Creating LSP server...
+09:51:38.970964 [info ]: Starting LSP server...
+09:51:39.428099 [debug]: Ignoring unsupported LSP notification
+==================== 2026-10-06T09:51:39.428834Z | 8a1c6c3e-3b2a-4566-933c-7818e5fa71d2 ====================
+09:51:39.428919 [info ]: Started loading project
+09:51:39.428999 [info ]: Finished loading project [  0.00s]
+09:51:39.429052 [error]: [IoError (dbt1001)]: Cannot open file /dbt_project/71836b52-5f47-4a23-8652-0fde71633bbd/dbt_project.yml: Failed to open file: /dbt_project/71836b52-5f47-4a23-8652-0fde71633bbd/dbt_project.yml: No such file or directory (os error 2): No such file or directory (os error 2)
+09:51:39.429102 [info ]: 
+==================== Execution Summary =====================
+Finished 'compile' with 1 error [268us]
+==================== 2026-10-06T09:53:36.560742Z | 00000000-0000-0000-0000-000000000000 ====================
+==================== 2026-10-06T09:53:36.560861Z | e832e118-3534-419b-8a4e-39ca0141769e ====================
+09:53:36.560878 [info ]: Starting dbt LSP server
+09:53:36.560896 [info ]: Connecting to LSP client on port 59415
+09:53:36.561124 [info ]: Successfully connected to LSP client
+09:53:36.561145 [info ]: Creating LSP service...
+09:53:36.561868 [info ]: Creating LSP server...
+09:53:36.561881 [info ]: Starting LSP server...
+==================== 2026-10-06T09:53:37.337457Z | b45391f3-b5f2-46ea-8448-f78331a3314e ====================
+09:53:37.337554 [info ]: Started loading project
+09:53:37.337631 [info ]: Finished loading project [  0.00s]
+09:53:37.337688 [error]: [IoError (dbt1001)]: Cannot open file /dbt_project/71836b52-5f47-4a23-8652-0fde71633bbd/dbt_project.yml: Failed to open file: /dbt_project/71836b52-5f47-4a23-8652-0fde71633bbd/dbt_project.yml: No such file or directory (os error 2): No such file or directory (os error 2)
+09:53:37.337738 [info ]: 
+==================== Execution Summary =====================
+Finished 'compile' with 1 error [280us]
+09:53:37.488118 [debug]: Ignoring unsupported LSP notification
+==================== 2026-10-06T09:54:44.672555Z | 00000000-0000-0000-0000-000000000000 ====================
+==================== 2026-10-06T09:54:44.672663Z | 89a32b9d-5d7b-40ea-882d-09933ceb5f10 ====================
+09:54:44.672682 [info ]: Starting dbt LSP server
+09:54:44.672698 [info ]: Connecting to LSP client on port 43989
+09:54:44.672874 [info ]: Successfully connected to LSP client
+09:54:44.672895 [info ]: Creating LSP service...
+09:54:44.673690 [info ]: Creating LSP server...
+09:54:44.673702 [info ]: Starting LSP server...
+09:54:45.148048 [debug]: Ignoring unsupported LSP notification
+==================== 2026-10-06T09:54:45.148835Z | ced4a146-957d-42fa-b865-ff659247ae0f ====================
+09:54:45.148927 [info ]: Started loading project
+09:54:45.148995 [info ]: Finished loading project [  0.00s]
+09:54:45.149050 [error]: [IoError (dbt1001)]: Cannot open file /dbt_project/71836b52-5f47-4a23-8652-0fde71633bbd/dbt_project.yml: Failed to open file: /dbt_project/71836b52-5f47-4a23-8652-0fde71633bbd/dbt_project.yml: No such file or directory (os error 2): No such file or directory (os error 2)
+09:54:45.149105 [info ]: 
+==================== Execution Summary =====================
+Finished 'compile' with 1 error [269us]
