@@ -1,0 +1,82 @@
+user:
+  outputs:
+    default:
+      keyfile_json:
+        auth_provider_x509_cert_url: https://www.googleapis.com/oauth2/v1/certs
+        auth_uri: https://accounts.google.com/o/oauth2/auth
+        client_email: dbt-jaffle-shop@jaffle-shop-510806.iam.gserviceaccount.com
+        client_id: '104381391533378827133'
+        client_x509_cert_url: https://www.googleapis.com/robot/v1/metadata/x509/dbt-jaffle-shop%40jaffle-shop-510806.iam.gserviceaccount.com
+        private_key: '-----BEGIN PRIVATE KEY-----
+
+          MIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCwqi7CY7Y3exqD
+
+          MaWVl2wraZ/rs3dVY9jtYsDMtnHCYqRq5785sDF/0FAFpDHIsimhWciStr4NLZEc
+
+          6K2UY98kb5mO4hCSsnpB2yRw28VHn8QVK5V6N6ZGOhZFjREnRoK/SB+vL8sUsg+1
+
+          fF4YV2KogpE0xEgbZkBzeMhhWpN/pOMLDYZF+yINQoAWfxQlv4AD6+193CjcbwTE
+
+          Dr4FSUs5bp7KrEFQYCy2xJprm6Rw2HuRN3RrBxCt+iMEIdcoGzA9uLFS7BS6Dthl
+
+          5qxU0pBLjrMHXdJRPW5T9yWGQfTIgNCFW4fNbdeUqMJwi3JNl1dfhQoue4pgaUaZ
+
+          qNxu0ZkRAgMBAAECggEAHTF2KiG7i/YABtN2qx5bXd4lsteUfewSvgGOXhW8/TP7
+
+          Ov5CQ4hp2ZblDlWYc3N7fSH+yr2/cKKJwwbxHh8V0enOLIYPWop7OPQ7VJoAguo0
+
+          BxKNcCWPiLXTFdmujriwZOcIc1TYwHn/LgyX6PpRv4pZ7+gKiVqPhnVcWXgT/SjN
+
+          ypEJRP2lo6CwDHEUEUpwafhOknJWEw5IEkktiUDDpDhB32mHaIOf4A7600zuQa1f
+
+          c0B01HfH7WkVMGRFrhhcSeiSHI8zsL/Wfy5ODXeYfs5qi6bsg9EkdzW38wpGlmnm
+
+          l08FgWr0m/xTjudB3UCa5I3jcu0uQ4Xzi2iJSM/PpQKBgQDqr0U2BumpIO83ZS6N
+
+          peI7ivOqQRL8YwRkB1e8xvlnEuVAsvZQzt3shmoeNuP5ovrW+moadtBVRgYObKQZ
+
+          4Pmqp5h3j0KWMxcIhfcsS7HbBIXzrOdyuUd55gES/Zq/J6o5+5H6BZnQE8mRv8ip
+
+          3xZCCuw+NMY/RRaKzU4RLWR3rQKBgQDAtd+K0PStb4kQQKBbzKj32ab8fLBjXx23
+
+          e1elJKg4I4lxM04ff5ZeqqCiq813b1mJIUFtPq27LtGYZS1m5M4muW1yT4YyKHLN
+
+          va0U/mLtNWzuaosTrbFWTX1Adp+YR4mviXiwy/K8NcF+QUwm+tjlsedObemT03Zz
+
+          LAktW/tjdQKBgQCxLZ3tCg8CVxEDG2qoGiLQnTkUwohY71BzTG/a38WPId7el74K
+
+          iANX/KrFIN/AqmECSJAuZqEmn/UWksLZntYfFuSu7wNwbiXnk2xmjsc5+RJAQ7uB
+
+          C4yA5TrOYZSg2ItVty4gOnZDd4zocohGZ1xgg+qTlDhPsBMyu4lCwqhlCQKBgGO8
+
+          /cB721b0Ng0qVZSNfRoiFPHymtwje17eQINhUIsVoWnsMs/MmgfO6aqnnoTlJYL6
+
+          qkEfQo1xctsb6n6phyS1rbaPABZvptNjCvSloI/CqelPTUHXEMRpAJ1fh8QpqlIm
+
+          pUdjlvLgI4/zvbUi+SUQiXWnH0/6DwEW1n0acSaNAoGAHdrrGAutMQAuJyAaxBqC
+
+          Cw9yAOLu/Pjou1SvlMReClHFOXp7hzfoM3HIWjGAX4AkPqJke+IYb+Lnoe8Xd6hr
+
+          rGbAglC3Gk7p6gBMcsey860q2xXSKvSaAohc0nWV5PEEJXTLm2/TV55hFtD9yKIc
+
+          xR/AMsqypoDNeqpi0YUIFik=
+
+          -----END PRIVATE KEY-----
+
+          '
+        private_key_id: 130fa9c9d1ce469763606feb7af14084c41cb245
+        project_id: jaffle-shop-510806
+        token_uri: https://oauth2.googleapis.com/token
+        type: service_account
+      method: service-account-json
+      project: jaffle-shop-510806
+      schema: dbt_precision
+      scopes:
+      - https://www.googleapis.com/auth/bigquery
+      - https://www.googleapis.com/auth/cloud-platform
+      - https://www.googleapis.com/auth/drive
+      - https://www.googleapis.com/auth/userinfo.email
+      target_name: default
+      threads: 4
+      type: bigquery
+  target: default
